@@ -3,6 +3,21 @@
 Welcome to my GitHub profile! 🚀  
 **Data Scientist** and **Data Analyst** with a passion for **transforming raw data into actionable insights**. With a strong background in **UX/UI** design, I believe in creating **data-driven** and **user-friendly** experiences. 📊✨
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=douniahanyn&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=douniahanyn&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=douniahanyn&show_icons=true" />
+</picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douniahanyn&layout=compact)
+
+
 ---
 ### **Tools**:
 
