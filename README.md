@@ -65,10 +65,25 @@ I’m a **Data Scientist** and **Analyst** focused on leveraging data to uncover
 ## 📬 Let's Connect!
 
 I’m always open to new opportunities, collaborations, or just talking about all things **data** and **design**! 📩
+<div style="text-align: center; padding: 20px;">
+  <h3><strong>Contact Me:</strong></h3>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <!-- Gmail -->
+    <a href="mailto:douniahanyn16@gmail.com" style="text-decoration: none; font-size: 18px; color: #d14836; display: flex; align-items: center;">
+      <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 25px; width: auto; margin-right: 8px;">
+      
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/dounia-hanyn/" style="text-decoration: none; font-size: 18px; color: #0077b5; display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 25px; width: auto; margin-right: 8px;">
+</a>
 
-- **Email**: [douniahanyn16@gmail.com](douniahanyn16@gmail.com)
-- **LinkedIn**: [linkedin.com/in/dounia-hanyn/](https://www.linkedin.com/in/dounia-hanyn/)
-- **Medium website**: [medium.com/@dounia-hanyn/](https://medium.com/@dounia-hanyn)
+<!-- Medium -->
+<a href="https://medium.com/@dounia-hanyn/" style="text-decoration: none; font-size: 18px; color: #00ab6c; display: flex; align-items: center;">
+  <img src="https://img.shields.io/badge/Medium-00ab6c?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="height: 25px; width: auto; margin-right: 8px;">
+</a>
+  </div>
+</div>
 
 ---
 
