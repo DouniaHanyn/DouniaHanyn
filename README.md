@@ -1,9 +1,12 @@
-# 👋 Hello, I'm Dounia Hanyn 🥇 !
+# 👋 Hello, I'm Dounia Hanyn !
 
 Welcome to my GitHub profile! 🚀  
-I'm a **Data Scientist** and **Data Analyst** with a passion for **transforming raw data into actionable insights**. With a strong background in **UX/UI** design, I believe in creating **data-driven** and **user-friendly** experiences. 📊✨
+**Data Scientist** and **Data Analyst** with a passion for **transforming raw data into actionable insights**. With a strong background in **UX/UI** design, I believe in creating **data-driven** and **user-friendly** experiences. 📊✨
 
 ---
+### **Tools**:
+
+[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)   [![SQL](https://img.shields.io/badge/SQL-orange)](https://www.microsoft.com/en-us/sql-server)   [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-orange)](https://jupyter.org/)   [![Power BI](https://img.shields.io/badge/Power%20BI-blue)](https://powerbi.microsoft.com/)   [![Qlik View](https://img.shields.io/badge/Qlik%20View-green)](https://www.qlik.com/us/products/qlikview)   [![Dataiku](https://img.shields.io/badge/Dataiku-blue)](https://www.dataiku.com/)   [![Data Science](https://img.shields.io/badge/Data%20Science-yellow)](https://www.datacamp.com/)   [![Data Analyst](https://img.shields.io/badge/Data%20Analyst-green)](https://www.coursera.org/professional-certificates/google-data-analytics)   [![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-lightblue)](https://www.smashingmagazine.com/category/uxdesign/) [![Visual Studio Code](https://img.shields.io/badge/VS%20Code-blue)](https://code.visualstudio.com/)   [![Git](https://img.shields.io/badge/Git-orange)](https://git-scm.com/)   [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/)   [![Notion](https://img.shields.io/badge/Notion-blue)](https://www.notion.so/)   [![Jira](https://img.shields.io/badge/Jira-blue)](https://www.atlassian.com/software/jira)   [![Figma](https://img.shields.io/badge/Figma-black)](https://www.figma.com/)   [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-red)](https://www.adobe.com/products/xd.html)   [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-orange)](https://www.adobe.com/products/illustrator.html)   [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-blue)](https://www.adobe.com/products/photoshop.html)  
 
 ## 🌟 About Me
 
